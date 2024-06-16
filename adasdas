@@ -1,0 +1,17 @@
+[33mcommit 04fc7ba2864878de15a60228d7300347d1b9c3b3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Lucas Eliasafe Mohr Vargas <139092655+LucasEliasafe@users.noreply.github.com>
+Date:   Sun Jun 16 20:31:15 2024 -0300
+
+    Feat: Adicionar modo de voltar para o código após encerrar
+
+[33mcommit 9d6298423a0a0f454115a330ca7ee3a31468a1b2[m
+Author: Lucas Eliasafe Mohr Vargas <139092655+LucasEliasafe@users.noreply.github.com>
+Date:   Sun Jun 16 15:52:31 2024 -0300
+
+    fix:Após escrever qualquer outra coisa na quantidade que não seja um número dá um erro
+
+[33mcommit dc5f3144be7dddae5baa572a7150ed2e91b10160[m
+Author: Lucas Eliasafe Mohr Vargas <139092655+LucasEliasafe@users.noreply.github.com>
+Date:   Sun Jun 16 15:47:14 2024 -0300
+
+    Gerenciamento de Materiais com Arquivo de texto
