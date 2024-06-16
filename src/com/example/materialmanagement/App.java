@@ -20,7 +20,7 @@ public class App {
             switch (option) {
                 case 1:
                     addMaterial(scanner);
-                    break;
+                   break;
                 case 2:
                     listMaterials();
                     break;
